@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/grace nekesa" target="blank"><img src="https://img.shields.io/twitter/follow/grace nekesa?logo=twitter&style=for-the-badge" alt="grace nekesa" /></a> </p>
 
-- 🔭 I’m currently working on [Microsoft stock exchange prediction](https://github.com/Grace-01-cell/Microsoft-stock-exchange)
+- 🔭 I’m currently working on [Chatbot Development with Langchain](https://github.com/Grace-01-cell/Chatbot-using-Langchain.git)
 
 - 🌱 I’m currently learning **Data Analytics and Machine Learning**
 
